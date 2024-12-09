@@ -1,3 +1,4 @@
 <resources>
   <string name="app_name">GithubRepoList</string>
+  <string name="icon">Icon</string>
 </resources>
